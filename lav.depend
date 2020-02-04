@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580211755 source:f:\lav\main.cpp
+	<iostream>
+
+1580211408 source:f:\lav\lg.cpp
+	<iostream>
+	<conio.h>
+
+1580212143 source:f:\lav\kush.cpp
+	<iostream>
+
